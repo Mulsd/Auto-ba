@@ -1,0 +1,10 @@
+{
+    "name": "Auto-ba",
+    "main": "main.js",
+    "ignore": [
+        "build"
+    ],
+    "packageName": "com.autoba.hard",
+    "versionName": "0.0.01",
+    "versionCode": 1
+}
