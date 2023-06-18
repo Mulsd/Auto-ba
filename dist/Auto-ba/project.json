@@ -1,0 +1,10 @@
+{
+    "name": "Auto-ba",
+    "main": "update.js",
+    "ignore": [
+        "build"
+    ],
+    "packageName": "com.autoba.musld",
+    "versionName": "0.0.01",
+    "versionCode": 1
+}
