@@ -6,7 +6,7 @@ var projects = [ //项目数组，放的是每一个要编译的项目，
     compile: true, //是否编译
     name: "Auto-ba", //项目名称，需要和文件夹名相同
     main: "./update.js", //主入文件，入口文件，按autojs目录，一般和project.json 同级
-    others: ['./ready.js']
+    others: ['./ready.js','./work.js']
   },
   {
     id: 2, compile: false, name: "dy", main: "./main.js",
