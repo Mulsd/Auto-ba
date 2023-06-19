@@ -2,97 +2,110 @@
 本软件可以免费使用，但是不允许二次开发、以及销售，如需获得最的更多apk 请联系作者。
 AutoX.js工程化环境开源库地址：https://github.com/kkevsekk1/webpack-autojs
 **/
-function a1_0x5812(_0x3a7630, _0x2d2011) {
-    var _0x58124a = a1_0x2d20();
-    return a1_0x5812 = function (_0x4319a4, _0x13d271) {
-        _0x4319a4 = _0x4319a4 - 0x11c;
-        var _0x35dfbe = _0x58124a[_0x4319a4];
-        return _0x35dfbe;
-    }, a1_0x5812(_0x3a7630, _0x2d2011);
+function a1_0x3d55(_0x1d35a2, _0x4f15d7) {
+    var _0x3d550d = a1_0x4f15();
+    return a1_0x3d55 = function (_0x417726, _0x10cac6) {
+        _0x417726 = _0x417726 - 0xd7;
+        var _0x529b70 = _0x3d550d[_0x417726];
+        return _0x529b70;
+    }, a1_0x3d55(_0x1d35a2, _0x4f15d7);
 }
-function a1_0x2d20() {
-    var _0x330989 = [
-        '更新成功',
-        'toStringTag',
-        'exports',
+function a1_0x4f15() {
+    var _0x4a1931 = [
+        'createWithDirs',
+        '../work/Auto-ba/update.js',
+        'execScriptFile',
+        'bind',
+        '/sdcard/Auto-ba/ready.js',
+        'defineProperty',
+        'Module',
+        'hasOwnProperty',
+        'statusCode',
         'create',
         'body',
-        '更新失败!',
-        'default',
-        'defineProperty',
+        '更新成功',
+        'https://fastly.jsdelivr.net/gh/Mulsd/Auto-ba@master/dist/Auto-ba/ready.js',
+        'undefined',
         '__esModule',
-        'Module',
+        'toStringTag',
         'prototype',
+        'default',
+        'get',
         'object',
-        'hasOwnProperty',
-        'writeBytes',
+        'exports',
         'string',
-        '/sdcard/Autoba/',
-        'statusCode',
-        'call'
+        '尝试下载最新代码',
+        '更新失败!',
+        'call',
+        'writeBytes'
     ];
-    a1_0x2d20 = function () {
-        return _0x330989;
+    a1_0x4f15 = function () {
+        return _0x4a1931;
     };
-    return a1_0x2d20();
+    return a1_0x4f15();
 }
-(function (_0x1c3a24) {
-    var _0x4992d6 = {};
-    function _0x54bb4f(_0x420e10) {
-        var _0x3971b1 = a1_0x5812;
-        if (_0x4992d6[_0x420e10])
-            return _0x4992d6[_0x420e10][_0x3971b1(0x11e)];
-        var _0x11d08e = _0x4992d6[_0x420e10] = {
-            'i': _0x420e10,
+(function (_0x20deb8) {
+    var _0x68bf5f = a1_0x3d55, _0x33452a = {};
+    function _0xccef(_0xe4e3d5) {
+        var _0x2b5854 = a1_0x3d55;
+        if (_0x33452a[_0xe4e3d5])
+            return _0x33452a[_0xe4e3d5][_0x2b5854(0xeb)];
+        var _0x8151d2 = _0x33452a[_0xe4e3d5] = {
+            'i': _0xe4e3d5,
             'l': ![],
             'exports': {}
         };
-        return _0x1c3a24[_0x420e10][_0x3971b1(0x12d)](_0x11d08e[_0x3971b1(0x11e)], _0x11d08e, _0x11d08e[_0x3971b1(0x11e)], _0x54bb4f), _0x11d08e['l'] = !![], _0x11d08e[_0x3971b1(0x11e)];
+        return _0x20deb8[_0xe4e3d5][_0x2b5854(0xef)](_0x8151d2['exports'], _0x8151d2, _0x8151d2[_0x2b5854(0xeb)], _0xccef), _0x8151d2['l'] = !![], _0x8151d2[_0x2b5854(0xeb)];
     }
-    return _0x54bb4f['m'] = _0x1c3a24, _0x54bb4f['c'] = _0x4992d6, _0x54bb4f['d'] = function (_0x57de22, _0x43405b, _0x361463) {
-        var _0xca77a4 = a1_0x5812;
-        !_0x54bb4f['o'](_0x57de22, _0x43405b) && Object[_0xca77a4(0x123)](_0x57de22, _0x43405b, {
+    return _0xccef['m'] = _0x20deb8, _0xccef['c'] = _0x33452a, _0xccef['d'] = function (_0x2a5f59, _0xac4dd, _0xf16063) {
+        !_0xccef['o'](_0x2a5f59, _0xac4dd) && Object['defineProperty'](_0x2a5f59, _0xac4dd, {
             'enumerable': !![],
-            'get': _0x361463
+            'get': _0xf16063
         });
-    }, _0x54bb4f['r'] = function (_0xe76ad7) {
-        var _0x5691b6 = a1_0x5812;
-        typeof Symbol !== 'undefined' && Symbol[_0x5691b6(0x11d)] && Object['defineProperty'](_0xe76ad7, Symbol['toStringTag'], { 'value': _0x5691b6(0x125) }), Object['defineProperty'](_0xe76ad7, _0x5691b6(0x124), { 'value': !![] });
-    }, _0x54bb4f['t'] = function (_0x499680, _0x1239a5) {
-        var _0x32e910 = a1_0x5812;
-        if (_0x1239a5 & 0x1)
-            _0x499680 = _0x54bb4f(_0x499680);
-        if (_0x1239a5 & 0x8)
-            return _0x499680;
-        if (_0x1239a5 & 0x4 && typeof _0x499680 === _0x32e910(0x127) && _0x499680 && _0x499680[_0x32e910(0x124)])
-            return _0x499680;
-        var _0x206f04 = Object[_0x32e910(0x11f)](null);
-        _0x54bb4f['r'](_0x206f04), Object['defineProperty'](_0x206f04, _0x32e910(0x122), {
+    }, _0xccef['r'] = function (_0x23b7eb) {
+        var _0x2b866b = a1_0x3d55;
+        typeof Symbol !== _0x2b866b(0xe4) && Symbol[_0x2b866b(0xe6)] && Object[_0x2b866b(0xdc)](_0x23b7eb, Symbol['toStringTag'], { 'value': _0x2b866b(0xdd) }), Object['defineProperty'](_0x23b7eb, _0x2b866b(0xe5), { 'value': !![] });
+    }, _0xccef['t'] = function (_0x4c2029, _0x267504) {
+        var _0x5cb7cd = a1_0x3d55;
+        if (_0x267504 & 0x1)
+            _0x4c2029 = _0xccef(_0x4c2029);
+        if (_0x267504 & 0x8)
+            return _0x4c2029;
+        if (_0x267504 & 0x4 && typeof _0x4c2029 === _0x5cb7cd(0xea) && _0x4c2029 && _0x4c2029['__esModule'])
+            return _0x4c2029;
+        var _0x189fa8 = Object[_0x5cb7cd(0xe0)](null);
+        _0xccef['r'](_0x189fa8), Object[_0x5cb7cd(0xdc)](_0x189fa8, _0x5cb7cd(0xe8), {
             'enumerable': !![],
-            'value': _0x499680
+            'value': _0x4c2029
         });
-        if (_0x1239a5 & 0x2 && typeof _0x499680 != _0x32e910(0x12a)) {
-            for (var _0x3acbb8 in _0x499680)
-                _0x54bb4f['d'](_0x206f04, _0x3acbb8, function (_0x47c351) {
-                    return _0x499680[_0x47c351];
-                }['bind'](null, _0x3acbb8));
+        if (_0x267504 & 0x2 && typeof _0x4c2029 != _0x5cb7cd(0xec)) {
+            for (var _0x176617 in _0x4c2029)
+                _0xccef['d'](_0x189fa8, _0x176617, function (_0x14c5e0) {
+                    return _0x4c2029[_0x14c5e0];
+                }[_0x5cb7cd(0xda)](null, _0x176617));
         }
-        return _0x206f04;
-    }, _0x54bb4f['n'] = function (_0x23df29) {
-        var _0x5c6d8d = a1_0x5812, _0x3acab0 = _0x23df29 && _0x23df29[_0x5c6d8d(0x124)] ? function _0x4e0d14() {
-                var _0x449f29 = _0x5c6d8d;
-                return _0x23df29[_0x449f29(0x122)];
-            } : function _0x20c229() {
-                return _0x23df29;
+        return _0x189fa8;
+    }, _0xccef['n'] = function (_0x3cc66b) {
+        var _0x2843cf = a1_0x3d55, _0x11f1bd = _0x3cc66b && _0x3cc66b[_0x2843cf(0xe5)] ? function _0x334a1d() {
+                var _0x3e279a = _0x2843cf;
+                return _0x3cc66b[_0x3e279a(0xe8)];
+            } : function _0x1fa04a() {
+                return _0x3cc66b;
             };
-        return _0x54bb4f['d'](_0x3acab0, 'a', _0x3acab0), _0x3acab0;
-    }, _0x54bb4f['o'] = function (_0x388567, _0x3ecc83) {
-        var _0x1f15f4 = a1_0x5812;
-        return Object[_0x1f15f4(0x126)][_0x1f15f4(0x128)][_0x1f15f4(0x12d)](_0x388567, _0x3ecc83);
-    }, _0x54bb4f['p'] = '', _0x54bb4f(_0x54bb4f['s'] = '../work/Auto-ba/update.js');
+        return _0xccef['d'](_0x11f1bd, 'a', _0x11f1bd), _0x11f1bd;
+    }, _0xccef['o'] = function (_0x2b8475, _0x2a951e) {
+        var _0x51fa21 = a1_0x3d55;
+        return Object[_0x51fa21(0xe7)][_0x51fa21(0xde)][_0x51fa21(0xef)](_0x2b8475, _0x2a951e);
+    }, _0xccef['p'] = '', _0xccef(_0xccef['s'] = _0x68bf5f(0xd8));
 }({
-    '../work/Auto-ba/update.js': function (_0x595a7b, _0x2a3923) {
-        var _0x43ea65 = a1_0x5812, _0x41eecb = 'https://github.com/Mulsd/Auto-ba/dist/', _0x391adf = http['get'](_0x41eecb);
-        _0x391adf[_0x43ea65(0x12c)] != 0xc8 && toast(_0x43ea65(0x121)), files[_0x43ea65(0x129)](_0x43ea65(0x12b), _0x391adf[_0x43ea65(0x120)]['bytes']()), toast(_0x43ea65(0x11c));
+    '../work/Auto-ba/update.js': function (_0xbea3b3, _0x3db043) {
+        var _0x2547c3 = a1_0x3d55;
+        function _0xb00391() {
+            var _0x48ce10 = a1_0x3d55;
+            files[_0x48ce10(0xd7)]('/sdcard/Auto-ba/ready.js');
+        }
+        _0xb00391(), toast(_0x2547c3(0xed));
+        var _0x3db6f2 = _0x2547c3(0xe3), _0x30d1b3 = http[_0x2547c3(0xe9)](_0x3db6f2);
+        _0x30d1b3[_0x2547c3(0xdf)] != 0xc8 && toast(_0x2547c3(0xee)), files[_0x2547c3(0xf0)](_0x2547c3(0xdb), _0x30d1b3[_0x2547c3(0xe1)]['bytes']()), toast(_0x2547c3(0xe2)), sleep(0xdac), engines[_0x2547c3(0xd9)](_0x2547c3(0xdb));
     }
 }));
