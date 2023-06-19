@@ -1,5 +1,5 @@
-function update() {files.createWithDirs("/sdcard/Auto-ba/ready.js","/sdcard/Auto-ba/work.js");}
-update();
+function update1() {files.createWithDirs("/sdcard/Auto-ba/ready.js");}
+update1();
 toast("更新UI代码中");
 var url1 = "https://fastly.jsdelivr.net/gh/Mulsd/Auto-ba@master/dist/Auto-ba/ready.js";
 var res = http.get(url1);
@@ -9,6 +9,8 @@ if(res.statusCode != 200){
 files.writeBytes("/sdcard/Auto-ba/ready.js", res.body.bytes());
 toast("更新成功");
 //
+function update2() {files.createWithDirs("/sdcard/Auto-ba/work.js");}
+update2();
 toast("更新工作代码中");
 var url2 = "https://fastly.jsdelivr.net/gh/Mulsd/Auto-ba@master/dist/Auto-ba/work.js";
 var res = http.get(url2);

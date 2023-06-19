@@ -2,114 +2,120 @@
 本软件可以免费使用，但是不允许二次开发、以及销售，如需获得最的更多apk 请联系作者。
 AutoX.js工程化环境开源库地址：https://github.com/kkevsekk1/webpack-autojs
 **/
-function a1_0xda30(_0x25a70a, _0x670a51) {
-    var _0xda3006 = a1_0x670a();
-    return a1_0xda30 = function (_0x5c12fa, _0x4baeeb) {
-        _0x5c12fa = _0x5c12fa - 0xf2;
-        var _0x292fe8 = _0xda3006[_0x5c12fa];
-        return _0x292fe8;
-    }, a1_0xda30(_0x25a70a, _0x670a51);
-}
-function a1_0x670a() {
-    var _0x5915c4 = [
-        'bind',
-        'execScriptFile',
+function a1_0x5a37() {
+    var _0x3c9aa6 = [
         'get',
-        'exports',
+        'statusCode',
+        'prototype',
+        'https://fastly.jsdelivr.net/gh/Mulsd/Auto-ba@master/dist/Auto-ba/ready.js',
+        'writeBytes',
+        'defineProperty',
+        'hasOwnProperty',
+        '/sdcard/Auto-ba/ready.js',
         'create',
+        'https://fastly.jsdelivr.net/gh/Mulsd/Auto-ba@master/dist/Auto-ba/work.js',
+        '../work/Auto-ba/update.js',
+        '更新成功',
+        'default',
+        '/sdcard/Auto-ba/work.js',
+        '更新工作代码中',
+        'Module',
+        'createWithDirs',
+        '__esModule',
+        'object',
+        '更新失败!',
+        'bind',
+        'call',
         'toStringTag',
         'body',
-        'hasOwnProperty',
-        '/sdcard/Auto-ba/work.js',
-        'writeBytes',
-        'object',
-        '../work/Auto-ba/update.js',
-        'call',
-        'Module',
-        'https://fastly.jsdelivr.net/gh/Mulsd/Auto-ba@master/dist/Auto-ba/work.js',
-        '/sdcard/Auto-ba/ready.js',
-        'default',
-        '更新工作代码中',
-        '__esModule',
-        '更新失败!',
-        'bytes',
-        'defineProperty',
+        'exports',
         'string',
-        'undefined',
-        'https://fastly.jsdelivr.net/gh/Mulsd/Auto-ba@master/dist/Auto-ba/ready.js',
-        '更新UI代码中'
+        'bytes'
     ];
-    a1_0x670a = function () {
-        return _0x5915c4;
+    a1_0x5a37 = function () {
+        return _0x3c9aa6;
     };
-    return a1_0x670a();
+    return a1_0x5a37();
 }
-(function (_0x2d023c) {
-    var _0x2085d3 = a1_0xda30, _0x55d75c = {};
-    function _0x1fcdd6(_0x24b912) {
-        var _0x49a229 = a1_0xda30;
-        if (_0x55d75c[_0x24b912])
-            return _0x55d75c[_0x24b912][_0x49a229(0xf5)];
-        var _0xe6b9eb = _0x55d75c[_0x24b912] = {
-            'i': _0x24b912,
+function a1_0x1e77(_0x2855ea, _0x5a371d) {
+    var _0x1e779c = a1_0x5a37();
+    return a1_0x1e77 = function (_0x3ae4fc, _0x5858da) {
+        _0x3ae4fc = _0x3ae4fc - 0x7f;
+        var _0x3a33e2 = _0x1e779c[_0x3ae4fc];
+        return _0x3a33e2;
+    }, a1_0x1e77(_0x2855ea, _0x5a371d);
+}
+(function (_0x50bbc8) {
+    var _0x5b0b27 = a1_0x1e77, _0x133d1d = {};
+    function _0x43ecd7(_0x5d49db) {
+        var _0x568c58 = a1_0x1e77;
+        if (_0x133d1d[_0x5d49db])
+            return _0x133d1d[_0x5d49db][_0x568c58(0x97)];
+        var _0x57acf8 = _0x133d1d[_0x5d49db] = {
+            'i': _0x5d49db,
             'l': ![],
             'exports': {}
         };
-        return _0x2d023c[_0x24b912][_0x49a229(0xfe)](_0xe6b9eb[_0x49a229(0xf5)], _0xe6b9eb, _0xe6b9eb['exports'], _0x1fcdd6), _0xe6b9eb['l'] = !![], _0xe6b9eb[_0x49a229(0xf5)];
+        return _0x50bbc8[_0x5d49db][_0x568c58(0x94)](_0x57acf8[_0x568c58(0x97)], _0x57acf8, _0x57acf8[_0x568c58(0x97)], _0x43ecd7), _0x57acf8['l'] = !![], _0x57acf8[_0x568c58(0x97)];
     }
-    return _0x1fcdd6['m'] = _0x2d023c, _0x1fcdd6['c'] = _0x55d75c, _0x1fcdd6['d'] = function (_0x2c05dc, _0xc6c8c8, _0x46b613) {
-        var _0x3f44ef = a1_0xda30;
-        !_0x1fcdd6['o'](_0x2c05dc, _0xc6c8c8) && Object[_0x3f44ef(0x107)](_0x2c05dc, _0xc6c8c8, {
+    return _0x43ecd7['m'] = _0x50bbc8, _0x43ecd7['c'] = _0x133d1d, _0x43ecd7['d'] = function (_0x5bbdfd, _0x534ba3, _0x27a3b2) {
+        var _0x1198ef = a1_0x1e77;
+        !_0x43ecd7['o'](_0x5bbdfd, _0x534ba3) && Object[_0x1198ef(0x84)](_0x5bbdfd, _0x534ba3, {
             'enumerable': !![],
-            'get': _0x46b613
+            'get': _0x27a3b2
         });
-    }, _0x1fcdd6['r'] = function (_0x2bcb79) {
-        var _0x493114 = a1_0xda30;
-        typeof Symbol !== _0x493114(0x109) && Symbol[_0x493114(0xf7)] && Object[_0x493114(0x107)](_0x2bcb79, Symbol[_0x493114(0xf7)], { 'value': _0x493114(0xff) }), Object[_0x493114(0x107)](_0x2bcb79, _0x493114(0x104), { 'value': !![] });
-    }, _0x1fcdd6['t'] = function (_0x8b6a57, _0x2b8d12) {
-        var _0x27b9ba = a1_0xda30;
-        if (_0x2b8d12 & 0x1)
-            _0x8b6a57 = _0x1fcdd6(_0x8b6a57);
-        if (_0x2b8d12 & 0x8)
-            return _0x8b6a57;
-        if (_0x2b8d12 & 0x4 && typeof _0x8b6a57 === _0x27b9ba(0xfc) && _0x8b6a57 && _0x8b6a57[_0x27b9ba(0x104)])
-            return _0x8b6a57;
-        var _0x5425f6 = Object[_0x27b9ba(0xf6)](null);
-        _0x1fcdd6['r'](_0x5425f6), Object['defineProperty'](_0x5425f6, _0x27b9ba(0x102), {
+    }, _0x43ecd7['r'] = function (_0x3cb0d9) {
+        var _0x4edb3c = a1_0x1e77;
+        typeof Symbol !== 'undefined' && Symbol[_0x4edb3c(0x95)] && Object[_0x4edb3c(0x84)](_0x3cb0d9, Symbol[_0x4edb3c(0x95)], { 'value': _0x4edb3c(0x8e) }), Object['defineProperty'](_0x3cb0d9, _0x4edb3c(0x90), { 'value': !![] });
+    }, _0x43ecd7['t'] = function (_0x1729d8, _0x20e554) {
+        var _0x2c3e10 = a1_0x1e77;
+        if (_0x20e554 & 0x1)
+            _0x1729d8 = _0x43ecd7(_0x1729d8);
+        if (_0x20e554 & 0x8)
+            return _0x1729d8;
+        if (_0x20e554 & 0x4 && typeof _0x1729d8 === _0x2c3e10(0x91) && _0x1729d8 && _0x1729d8[_0x2c3e10(0x90)])
+            return _0x1729d8;
+        var _0x412a44 = Object[_0x2c3e10(0x87)](null);
+        _0x43ecd7['r'](_0x412a44), Object[_0x2c3e10(0x84)](_0x412a44, _0x2c3e10(0x8b), {
             'enumerable': !![],
-            'value': _0x8b6a57
+            'value': _0x1729d8
         });
-        if (_0x2b8d12 & 0x2 && typeof _0x8b6a57 != _0x27b9ba(0x108)) {
-            for (var _0x309ed0 in _0x8b6a57)
-                _0x1fcdd6['d'](_0x5425f6, _0x309ed0, function (_0x243951) {
-                    return _0x8b6a57[_0x243951];
-                }[_0x27b9ba(0xf2)](null, _0x309ed0));
+        if (_0x20e554 & 0x2 && typeof _0x1729d8 != _0x2c3e10(0x98)) {
+            for (var _0x494218 in _0x1729d8)
+                _0x43ecd7['d'](_0x412a44, _0x494218, function (_0x274a45) {
+                    return _0x1729d8[_0x274a45];
+                }[_0x2c3e10(0x93)](null, _0x494218));
         }
-        return _0x5425f6;
-    }, _0x1fcdd6['n'] = function (_0x180962) {
-        var _0x138a4b = a1_0xda30, _0x1e3cfc = _0x180962 && _0x180962[_0x138a4b(0x104)] ? function _0x57ff0b() {
-                var _0x4fbbfb = _0x138a4b;
-                return _0x180962[_0x4fbbfb(0x102)];
-            } : function _0x4d0ae1() {
-                return _0x180962;
-            };
-        return _0x1fcdd6['d'](_0x1e3cfc, 'a', _0x1e3cfc), _0x1e3cfc;
-    }, _0x1fcdd6['o'] = function (_0x3124fd, _0x945e5b) {
-        var _0x2467b1 = a1_0xda30;
-        return Object['prototype'][_0x2467b1(0xf9)][_0x2467b1(0xfe)](_0x3124fd, _0x945e5b);
-    }, _0x1fcdd6['p'] = '', _0x1fcdd6(_0x1fcdd6['s'] = _0x2085d3(0xfd));
+        return _0x412a44;
+    }, _0x43ecd7['n'] = function (_0x2f3e1f) {
+        var _0xfacf32 = _0x2f3e1f && _0x2f3e1f['__esModule'] ? function _0x8e7324() {
+            var _0x2fb7a8 = a1_0x1e77;
+            return _0x2f3e1f[_0x2fb7a8(0x8b)];
+        } : function _0x3ed1b6() {
+            return _0x2f3e1f;
+        };
+        return _0x43ecd7['d'](_0xfacf32, 'a', _0xfacf32), _0xfacf32;
+    }, _0x43ecd7['o'] = function (_0xc2fb2, _0x2a9727) {
+        var _0x46acdc = a1_0x1e77;
+        return Object[_0x46acdc(0x81)][_0x46acdc(0x85)]['call'](_0xc2fb2, _0x2a9727);
+    }, _0x43ecd7['p'] = '', _0x43ecd7(_0x43ecd7['s'] = _0x5b0b27(0x89));
 }({
-    '../work/Auto-ba/update.js': function (_0x5b7497, _0x283643) {
-        var _0x12675a = a1_0xda30;
-        function _0x3e924a() {
-            var _0x462f37 = a1_0xda30;
-            files['createWithDirs'](_0x462f37(0x101), _0x462f37(0xfa));
+    '../work/Auto-ba/update.js': function (_0x3c1c5a, _0x13fa57) {
+        var _0x50a290 = a1_0x1e77;
+        function _0x471634() {
+            var _0x56f1ac = a1_0x1e77;
+            files[_0x56f1ac(0x8f)](_0x56f1ac(0x86));
         }
-        _0x3e924a(), toast(_0x12675a(0x10b));
-        var _0x113f8e = _0x12675a(0x10a), _0x44de6c = http[_0x12675a(0xf4)](_0x113f8e);
-        _0x44de6c['statusCode'] != 0xc8 && toast(_0x12675a(0x105));
-        files[_0x12675a(0xfb)](_0x12675a(0x101), _0x44de6c['body'][_0x12675a(0x106)]()), toast('更新成功'), toast(_0x12675a(0x103));
-        var _0x1e031c = _0x12675a(0x100), _0x44de6c = http['get'](_0x1e031c);
-        _0x44de6c['statusCode'] != 0xc8 && toast(_0x12675a(0x105)), files['writeBytes'](_0x12675a(0xfa), _0x44de6c[_0x12675a(0xf8)][_0x12675a(0x106)]()), toast('更新成功'), sleep(0xdac), engines[_0x12675a(0xf3)](_0x12675a(0x101));
+        _0x471634(), toast('更新UI代码中');
+        var _0x26fb8a = _0x50a290(0x82), _0x5ea51e = http[_0x50a290(0x7f)](_0x26fb8a);
+        _0x5ea51e[_0x50a290(0x80)] != 0xc8 && toast('更新失败!');
+        files[_0x50a290(0x83)]('/sdcard/Auto-ba/ready.js', _0x5ea51e['body'][_0x50a290(0x99)]()), toast(_0x50a290(0x8a));
+        function _0x1b251e() {
+            var _0x4eae02 = _0x50a290;
+            files[_0x4eae02(0x8f)]('/sdcard/Auto-ba/work.js');
+        }
+        _0x471634(), toast(_0x50a290(0x8d));
+        var _0x4d6e66 = _0x50a290(0x88), _0x5ea51e = http[_0x50a290(0x7f)](_0x4d6e66);
+        _0x5ea51e['statusCode'] != 0xc8 && toast(_0x50a290(0x92)), files[_0x50a290(0x83)](_0x50a290(0x8c), _0x5ea51e[_0x50a290(0x96)][_0x50a290(0x99)]()), toast('更新成功'), sleep(0xdac), engines['execScriptFile'](_0x50a290(0x86));
     }
 }));
