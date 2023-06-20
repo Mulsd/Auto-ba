@@ -26,11 +26,11 @@ click(1552,764);
 sleep(2000);
 click(583,702);
 sleep(200);
-back();
+click(100,100);
 sleep(500);
 click(583,585);
 sleep(2000);
-back();
+click(100,100);
 sleep(500);
 back();
 /*
