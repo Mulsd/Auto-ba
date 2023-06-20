@@ -1,4 +1,4 @@
 /**
-本软件可以免费使用，但是不允许二次开发、以及销售，如需获得最的更多apk 请联系作者。
-AutoX.js工程化环境开源库地址：https://github.com/kkevsekk1/webpack-autojs
+脚本完全开源,地址 github.com/Mulsd/Auto-ba/
+最后编辑时间 2023年6月20日20:27:56
 **/
