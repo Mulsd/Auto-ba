@@ -22,7 +22,8 @@ if (network = "UU") {
 }
 });
 */
-ui.start.click(function(){
+/*ui.start.click(function(){
     launch("com.nexon.bluearchive")
 })
 engines.execScriptFile("/sdcard/Auto-ba/work.js");
+*/
