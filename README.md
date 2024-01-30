@@ -1,4 +1,4 @@
-# 怕是要重构了，都忘了原来怎么设计了
+# 看了[BAAH](https://github.com/sanmusen214/BAAH)的项目突然来劲了，都给我去用[BAAH](https://github.com/sanmusen214/BAAH),我要开抄了
 # 当前开发进度：在写开始界面
 碧蓝档案日常自动化工具，(未来将)以图色识别实现自动化点击。使用AutoX.js驱动。
 现在正在锐意开发中~
